@@ -1,4 +1,4 @@
 # Demo
 This is my first repository.
-<br>
-Author -> Amit Mehta
+<div> Author -> Amit Mehta </div>
+
